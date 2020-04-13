@@ -19,4 +19,18 @@ This notebook is a semi interactive showcase of our project. You just need to op
 ### Full.ipynb
 Similar to pretrained, you don't have to do anything but run each individual cell. This notebook however, will build and train every model from the ground up. Run this notebook if you wish to reproduce our results. 
 
-The file ddpg.py contains all relevant classes and functions, if you prefer to look at the code directly. However, we do not recommend running it directly. 
+### ddpg.py
+ddpg.py contains all relevant classes and functions in case you prefer to look at the code directly. However, we do not recommend running it blindly.
+
+## Screenshots
+
+### Notebook
+<img src="https://github.com/denizmguen/IANNWTF2019-Project/blob/master/img/notebook_screencap.png" height=50% width=50%>
+<img src="https://github.com/denizmguen/IANNWTF2019-Project/blob/master/img/notebook_screencap2.png" height=50% width=50%>
+<img src="https://github.com/denizmguen/IANNWTF2019-Project/blob/master/img/notebook_screencap3.png" height=50% width=50%>
+
+### Sample Results
+<img src="https://github.com/denizmguen/IANNWTF2019-Project/blob/master/results/episodic_rewards/original_ddpg_e100.png" width=65%>
+
+<img src="https://github.com/denizmguen/IANNWTF2019-Project/blob/master/results/episodic_rewards/original_ddpg_test.png" width=65%>
+
