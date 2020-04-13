@@ -6,7 +6,8 @@ This github repo serves as our hand-in for the course "Implementing Artificial N
 There are 3 Notebooks all containing our work with varying levels of completeness.
 
 ### Lite.html
-   * Open this file, if you just want to have a look at our project without actually running anything. 
+https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Lite.html
+Open this file through the above link, if you just want to have a look at our project without actually running anything. 
    
 The next two project files both require 2 (or 3) steps before you can run through them using jupyter without any complications:
 * Clone this repo
