@@ -21,9 +21,9 @@ Similar to pretrained, you don't have to do anything but run each individual cel
 ddpg.py contains all relevant classes and functions in case you prefer to look at the code directly. However, we do not recommend running it blindly.
 
 Note, that the project files “Pretrained.ipynb” and “Full.ipynb” require the following steps to be completed before you can run the code using jupyter without any complications:
-•	Clone this repo
-•	(Create a new environment)
-•	within the folder, run the following command in your shell: 'pip install -r req.txt'
+* Clone this repo
+* (Create a new environment)
+* within the folder, run the following command in your shell: 'pip install -r req.txt'
 
 ## Screenshots
 
