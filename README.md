@@ -1,5 +1,5 @@
 # IANNWTF2019-Project
-This github repo serves as our hand-in for the course "Implementing Artificial Neural Networks with Tensorflow 2019". We attempted to reimplement DDPG (Lillicrap et al. 2015) in tensorflow 2.0.1 from scratch and train the agent on the continuous version of MountainCar-v0. Our implementation is as faithful to the details specified in the 2015 report as we could manage. Most of the steps that we have taken are well documented and a lot of code is additionally explained through comments on the spot. Unfortunately, within 100 episodes our agent did NOT learn a policy that solves the problem. We evaluated several modifications and provide further aspects that could be investigated to improve the performance of the agent in the future.
+This github repo serves as our hand-in for the course "Implementing Artificial Neural Networks with Tensorflow 2019". We attempted to reimplement DDPG (Lillicrap et al. 2015) in Tensorflow 2.0.1 from scratch and train the agent on the continuous version of MountainCar-v0. Our implementation is as faithful to the details specified in the 2015 report as we could manage. Most of the steps that we have taken are well documented and a lot of code is additionally explained through comments on the spot. Unfortunately, within 100 episodes our agent did NOT learn a policy that solves the problem. We evaluated several modifications and provide further aspects that could be investigated to improve the performance of the agent in the future.
 
 
 ## Guide
@@ -8,7 +8,7 @@ There are 3 Notebooks all containing our work. Choose your version based on whet
 ### Project version for submission
 https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Submission%20Essential%20Code.html
 
-This version includes the documentation and evaluation of our project as well as screenshots and only most important code snippets embedded in the text. Obviously you do not have to run anything here.
+This version includes the documentation and evaluation of our project as well as screenshots and only the most important code snippets embedded in the text. Obviously you do not have to run anything here.
 
 https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Submission.html
 
