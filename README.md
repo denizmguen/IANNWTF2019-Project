@@ -8,13 +8,13 @@ There are 3 Notebooks all containing our work. Choose your version based on whet
 ### Project version for submission
 https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Submission%20Essential%20Code.html
 
-This version includes the documentation and evaluation of our project as well as screenshots and most important code snippets embedded in the text. Obviously you do not have to run anything here.
+This version includes the documentation and evaluation of our project as well as screenshots and only most important code snippets embedded in the text. Obviously you do not have to run anything here.
 
 https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Submission.html
 
 In this version you do not have to run anything either, but it contains all the code we used in our project.
 
-In this  In case the LaTeX code does not render properly online, download one of the two files above and open it locally. 
+In case the LaTeX code does not render properly online, download one of the two files above and open it locally. 
 If you want to run our project code, please see versions “Pretrained.ipynb” or “Full.ipynb”, and for a direct look at the python code we recommend “ddpg.py”.
 
 ### Pretrained.ipynb
