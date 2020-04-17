@@ -1,19 +1,14 @@
 # IANNWTF2019-Project
-This github repo serves as our hand-in for the course "Implementing Artificial Neural Networks with Tensorflow 2019". We attempted to reimplement DDPG (Lillicrap et al. 2015) in tensorflow 2.0.1 from scratch and train the agent on the continuous version of MountainCar-v0. Our implementation is as faithful to the details specified in the 2015 report as we could manage. Most of the steps that we have taken are well documented and a lot of code is additionaly explained through comments on the spot. Within 100 episodes our agent did NOT learn a policy that solves the problem.
+This github repo serves as our hand-in for the course "Implementing Artificial Neural Networks with Tensorflow 2019". We attempted to reimplement DDPG (Lillicrap et al. 2015) in tensorflow 2.0.1 from scratch and train the agent on the continuous version of MountainCar-v0. Our implementation is as faithful to the details specified in the 2015 report as we could manage. Most of the steps that we have taken are well documented and a lot of code is additionally explained through comments on the spot. Unfortunately, within 100 episodes our agent did NOT learn a policy that solves the problem. We evaluated several modifications and provide further aspects that could be investigated to improve the performance of the agent in the future.
 
 
 ## Guide
-There are 3 Notebooks all containing our work with varying levels of completeness.
+There are 3 Notebooks all containing our work. Choose your version based on whether you would like to have an overview of the most essential points of the project, run the trained code, train the model from scratch or have a direct look at the full code.
 
-### Lite.html
-https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Lite.html
+### Project version for submission
+https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Submission.html
 
-Open this file through the above link, if you just want to have a look at our project without actually running anything. 
-   
-The next two project files both require 2 (or 3) steps before you can run through them using jupyter without any complications:
-* Clone this repo
-* (Create a new environment)
-* within the folder, run the following command in your shell: 'pip install -r req.txt'
+This version includes the documentation and evaluation of our project as well as screenshots and most important code snippets embedded in the text. If you want to run the code, please see versions “Pretrained.ipynb” or “Full.ipynb”, and for direct look at the full code we recommend “ddpg.py”.
 
 ### Pretrained.ipynb
 This notebook is a semi interactive showcase of our project. You just need to open it up and run each individual cell. Pretrained models and results will be loaded and displayed inside the notebook.
@@ -23,6 +18,11 @@ Similar to pretrained, you don't have to do anything but run each individual cel
 
 ### ddpg.py
 ddpg.py contains all relevant classes and functions in case you prefer to look at the code directly. However, we do not recommend running it blindly.
+
+Note, that the project files “Pretrained.ipynb” and “Full.ipynb” require the following steps to be completed before you can run the code using jupyter without any complications:
+•	Clone this repo
+•	(Create a new environment)
+•	within the folder, run the following command in your shell: 'pip install -r req.txt'
 
 ## Screenshots
 
