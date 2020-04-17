@@ -8,13 +8,14 @@ There are 3 Notebooks all containing our work. Choose your version based on whet
 ### Project version for submission
 https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Submission.html
 
-This version includes the documentation and evaluation of our project as well as screenshots and most important code snippets embedded in the text. If you want to run the code, please see versions “Pretrained.ipynb” or “Full.ipynb”, and for direct look at the full code we recommend “ddpg.py”.
+This version includes the documentation and evaluation of our project as well as screenshots and most important code snippets embedded in the text. In case LaTeX code does not render properly online, download Submission.html and open it locally. 
+If you want to run our project code, please see versions “Pretrained.ipynb” or “Full.ipynb”, and for direct look at the full code we recommend “ddpg.py”.
 
 ### Pretrained.ipynb
 This notebook is a semi interactive showcase of our project. You just need to open it up and run each individual cell. Pretrained models and results will be loaded and displayed inside the notebook.
 
 ### Full.ipynb
-Similar to pretrained, you don't have to do anything but run each individual cell. This notebook however, will build and train every model from the ground up. Run this notebook if you wish to reproduce our results. 
+Similar to pretrained, you don't have to do anything but run each individual cell. This notebook however, will build and train every model from the ground up. Run this notebook if you wish to reproduce our results or run it with new parameters.
 
 ### ddpg.py
 ddpg.py contains all relevant classes and functions in case you prefer to look at the code directly. However, we do not recommend running it blindly.
