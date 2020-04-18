@@ -16,7 +16,6 @@ https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project
 In this version you do not have to run anything either, but it contains all the code we used in our project.
 
 In case the LaTeX code does not render properly online, download one of the two files above and open it locally. 
-If you want to run our project code, please see versions “Pretrained.ipynb” or “Full.ipynb”, and for a direct look at the python code we recommend “ddpg.py”.
 
 ### Pretrained.ipynb
 This notebook is a semi interactive showcase of our project. You just need to open it up and run each individual cell. Pretrained models and results will be loaded and displayed inside the notebook.
