@@ -3,7 +3,7 @@ This github repo serves as our hand-in for the course "Implementing Artificial N
 
 
 ## Guide
-There are 3 Notebooks all containing our work. Choose your version based on whether you would like to have an overview of the most essential points of the project, run the trained code, train the model from scratch or have a direct look at the full code.
+There are 4 Notebooks all containing our work. Choose your version based on whether you would like to have an overview of the most essential points of the project, run the trained code, train the model from scratch or have a direct look at the full code.
 
 ### Submission Essential Code.html
 https://htmlpreview.github.io/?https://github.com/denizmguen/IANNWTF2019-Project/blob/master/Submission%20Essential%20Code.html
